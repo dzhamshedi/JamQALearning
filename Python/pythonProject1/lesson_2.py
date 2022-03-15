@@ -17,4 +17,4 @@ q = int("6")
 w = 6
 print(q + w)
 
-print(type(q))
+print(type(q)) #type output type of printed value
