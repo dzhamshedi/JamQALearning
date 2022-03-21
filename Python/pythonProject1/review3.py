@@ -13,3 +13,15 @@ print(a)
 b = "this is my life"
 print(b.split(maxsplit=1))
 
+f = "my name is jam"
+"jam" in f
+"jam" not in f
+
+new = "olga"
+new.replace("o", "A")
+
+z = "something"
+z.upper()
+z.lower()
+
+m = ""

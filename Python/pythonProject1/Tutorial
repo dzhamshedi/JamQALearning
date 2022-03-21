@@ -38,3 +38,13 @@ py - start console python in cmd.exe
 python casting
 cifra = int("8") - casting string 8 to integers 8
 print(cifra)
+
+b = "this is my life"
+print(b.split(maxsplit=1))
+['this', 'is my life']
+maxsplit=1 разбивает на 1 кусок
+
+type([]) <class 'list'>
+type({}) <class 'dict'>
+
+
