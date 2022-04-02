@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 privet
+=======
+hello
+>>>>>>> 93322808c71cbdf2374a0dc11ae1d96d14f22bab
